@@ -20,4 +20,4 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='demo-part.gif' title='Gif Walkthrough' width='' alt='Gif Walkthrough' />
+<img src='demo-gif.gif' title='Gif Walkthrough' width='' alt='Gif Walkthrough' />
